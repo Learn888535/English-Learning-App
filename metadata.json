@@ -1,0 +1,7 @@
+{
+  "name": "PandaPal English (熊猫英语)",
+  "description": "An interactive English learning application for Chinese children designed around the natural language acquisition process. Features AI-powered proficiency assessment, custom story generation, and playful learning activities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
